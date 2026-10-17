@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Inventory Management](https://github.com/HI-56/product-crud-api)
 
-- 🌱 I’m currently learning **expressJS**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://hb-dev-phi.vercel.app/](https://hb-dev-phi.vercel.app/)
 
