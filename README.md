@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://hb-dev-phi.vercel.app/](https://hichambeloualed.vercel.app/)
+- 👨‍💻 All of my projects are available at [hichambeloualed/](https://hichambeloualed.vercel.app/)
 
 - 📫 How to reach me **hichambeloualed@gmail.com**
 
